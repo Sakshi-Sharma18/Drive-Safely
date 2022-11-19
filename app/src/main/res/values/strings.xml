@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyEmergencyApplication</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="title_activity_maps3">MapsActivity3</string>
+    <string name="failure_permission">"failure"</string>
+    <string name="phone_status" />
+    <string name="ringing">"ringing"</string>
+    <string name="offhook">"offhook"</string>
+    <string name="idle" />
+</resources>
